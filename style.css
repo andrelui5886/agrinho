@@ -4,6 +4,7 @@
     --cor-de-fundo: #000000;
    --verde:#06a113;
    --claro:#ebfdea;
+   --borda:#ffffff;
 }
 body {
     background-color: var(--cor-de-fundo);
@@ -26,7 +27,6 @@ body {
 }  
 
 .foto{
-text-align:right;
-size: 22px;
-width: 20%;
+
+
 }
