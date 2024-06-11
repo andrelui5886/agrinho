@@ -30,7 +30,7 @@
     color: var(--link);
   }
   a.cabecalho__botao:link {
-    color: #000000;
+    color: #ffffff;
   }
   a:visited {
     color: var(--branco-principal);
@@ -53,7 +53,7 @@
   
   /*estilos do cabeçalho*/
   .cabecalho {
-    background-image: url("veio.jpg");
+    background-image: url("messi.jpg");
   }
   .img {
     width: 100%;
@@ -91,7 +91,7 @@
     height: 30px;
     color: #000000;
     padding: 20px;
-    border: 5px solid #070505;
+    border: 5px solid #ffffff;
   }
   
   /* estilo seção 1*/
